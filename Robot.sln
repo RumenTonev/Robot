@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{041E54FF-51B5-47C4-8C98-2EE87ECBDEE7}"
+	ProjectSection(SolutionItems) = preProject
+		..\Entity-Framework-Code-First-Demos (1)\Entity-Framework-Code-First-Demos (1)\CodeFirst.Models\CodeFirst.Models.csproj = ..\Entity-Framework-Code-First-Demos (1)\Entity-Framework-Code-First-Demos (1)\CodeFirst.Models\CodeFirst.Models.csproj
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robot.Data", "Robot.Data\Robot.Data.csproj", "{CF23BB06-11AA-4381-81E5-1A02A5DA714B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robot.Engine", "Robot.Engine\Robot.Engine.csproj", "{8D872F5B-9E75-455A-BB7D-B64905CF69DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robot.Models", "Robot.Models\Robot.Models.csproj", "{24BBBE54-0704-4A99-8039-BF95785B5E76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF23BB06-11AA-4381-81E5-1A02A5DA714B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF23BB06-11AA-4381-81E5-1A02A5DA714B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF23BB06-11AA-4381-81E5-1A02A5DA714B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF23BB06-11AA-4381-81E5-1A02A5DA714B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D872F5B-9E75-455A-BB7D-B64905CF69DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D872F5B-9E75-455A-BB7D-B64905CF69DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D872F5B-9E75-455A-BB7D-B64905CF69DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D872F5B-9E75-455A-BB7D-B64905CF69DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24BBBE54-0704-4A99-8039-BF95785B5E76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24BBBE54-0704-4A99-8039-BF95785B5E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24BBBE54-0704-4A99-8039-BF95785B5E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24BBBE54-0704-4A99-8039-BF95785B5E76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
